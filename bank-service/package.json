@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "catchify": "^2.6.1",
     "colors": "^1.3.3",
     "express": "^4.17.0",
